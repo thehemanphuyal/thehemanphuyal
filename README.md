@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on PersonalWebsite.
+- 🔭 I’m currently working on ProjectOne
 - 📫 How to reach me: instagram: thehemanphuyal
