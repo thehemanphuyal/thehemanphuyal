@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ProjectOne
-- 📫 How to reach me: instagram: thehemanphuyal
+- 📫 How to reach me: linktr.ee/hemanphuyal
